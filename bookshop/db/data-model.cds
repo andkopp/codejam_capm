@@ -5,3 +5,8 @@ entity Books {
   title  : String;
   stock  : Integer;
 }
+
+entity Authors {
+  key ID : Integer;
+  name : String;
+}
