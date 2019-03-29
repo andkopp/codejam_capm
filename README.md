@@ -11,3 +11,5 @@ Overview https://github.com/qmacro/codejam-cap-nodejs
 5. Add another generic entity and using generic features https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/05  
 6. Annotations https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/06  
 7. Second service https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/07  
+8. Add Javascript hook https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/08  
+9. Fiori UI https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/09  
