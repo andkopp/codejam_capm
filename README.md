@@ -9,3 +9,5 @@ Overview https://github.com/qmacro/codejam-cap-nodejs
 3. Adding persistence https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/03  
 4. Import data from CSV https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/04  
 5. Add another generic entity and using generic features https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/05  
+6. Annotations https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/06  
+7. Second service https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/07  
