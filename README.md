@@ -8,3 +8,4 @@ Overview https://github.com/qmacro/codejam-cap-nodejs
 2. Create Project based on CDS https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/02  
 3. Adding persistence https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/03  
 4. Import data from CSV https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/04  
+5. Add another generic entity and using generic features https://github.com/qmacro/codejam-cap-nodejs/tree/master/exercises/05  
